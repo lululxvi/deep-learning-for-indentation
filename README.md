@@ -1,6 +1,6 @@
 # Extraction of mechanical properties of materials through deep learning from instrumented indentation
 
-The data and code for the paper "Extraction of mechanical properties of materials through deep learning from instrumented indentation".
+The data and code for the paper [Extraction of mechanical properties of materials through deep learning from instrumented indentation, PNAS, 2020](https://www.pnas.org/content/early/2020/03/13/1922210117).
 
 ## Data
 
