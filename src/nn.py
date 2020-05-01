@@ -3,13 +3,11 @@ from __future__ import division
 from __future__ import print_function
 
 import itertools
-import sys
 
 import numpy as np
 from sklearn.svm import SVR
 from sklearn.model_selection import KFold, LeaveOneOut, RepeatedKFold, ShuffleSplit
 
-sys.path.insert(0, "/home/lu/workspace/deepxde")
 import deepxde as dde
 from data import BerkovichData, ExpData, FEMData, ModelData
 
