@@ -26,10 +26,10 @@ def fit_n_Ti(E, sy, s008, s015, s033):
 
 
 def main():
-    sy = np.loadtxt("B3090_peer/sigma_y.dat")
-    s1 = np.loadtxt("B3090_peer/sigma_0.008.dat")
-    s2 = np.loadtxt("B3090_peer/sigma_0.015.dat")
-    s3 = np.loadtxt("B3090_peer/sigma_0.033.dat")
+    sy = np.loadtxt("sigma_y.dat")
+    s1 = np.loadtxt("sigma_0.008.dat")
+    s2 = np.loadtxt("sigma_0.015.dat")
+    s3 = np.loadtxt("sigma_0.033.dat")
     print(np.mean(sy), np.std(sy))
     print(np.mean(s1), np.std(s1))
     print(np.mean(s2), np.std(s2))
