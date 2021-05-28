@@ -1,0 +1,8 @@
+deepxde
+emukit
+GPy
+matplotlib
+numpy
+pandas
+scipy
+sklearn
