@@ -22,14 +22,14 @@ If you use this code for academic research, you are encouraged to cite the follo
 
 ```
 @article{Lu7052,
-	author  = {Lu, Lu and Dao, Ming and Kumar, Punit and Ramamurty, Upadrasta and Karniadakis, George Em and Suresh, Subra},
-	title   = {Extraction of mechanical properties of materials through deep learning from instrumented indentation},
-	volume  = {117},
-	number  = {13},
-	pages   = {7052--7062},
-	year    = {2020},
-	doi     = {10.1073/pnas.1922210117},
-	journal = {Proceedings of the National Academy of Sciences}
+  author  = {Lu, Lu and Dao, Ming and Kumar, Punit and Ramamurty, Upadrasta and Karniadakis, George Em and Suresh, Subra},
+  title   = {Extraction of mechanical properties of materials through deep learning from instrumented indentation},
+  volume  = {117},
+  number  = {13},
+  pages   = {7052--7062},
+  year    = {2020},
+  doi     = {10.1073/pnas.1922210117},
+  journal = {Proceedings of the National Academy of Sciences}
 }
 ```
 
