@@ -8,7 +8,7 @@ All the data is in the folder [data](data).
 
 ## Code
 
-All the code is in the folder [src](src). The code depends on the deep learning package [DeepXDE](https://github.com/lululxvi/deepxde).
+All the code is in the folder [src](src). The code depends on the deep learning package [DeepXDE](https://github.com/lululxvi/deepxde) v1.1.2. If you use DeepXDE>1.1.2, you need to set `standardize=True` in `dde.data.MfDataSet()`.
 
 - [data.py](src/data.py): The classes are used to read the data file. Remember to uncomment certain line in `ExpData` to scale `dP/dh`.
 - [nn.py](src/nn.py): The main functions of multi-fidelity neural networks.
